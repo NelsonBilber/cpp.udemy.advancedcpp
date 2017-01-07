@@ -6,7 +6,7 @@ https://www.udemy.com/learn-advanced-c-programming/learn/v4/overview
 An exclente course by John Purcell
 
 
-It talks about new features from C++11:
+- It talks about new features from C++11:
 	* Smart pointers
 	* Move constructor
 	* Lambdas
